@@ -1,6 +1,4 @@
-.body{
 
-}
 .caculator{
   width: 100%;
   height: 100vh;
@@ -40,6 +38,7 @@
   background-color: #333333;
   color: white;
   font-size: 27px;
+  user-select: none;
 }
 #zero {
   width: 190px;
@@ -56,5 +55,6 @@
   font-size: 100px;
   margin-right: 5%;
   margin-left: 5%;
+  user-select: none;
 }
 /* 375 x 100
